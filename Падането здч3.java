@@ -18,8 +18,23 @@ public class Main {
             case 6:
                 System.out.println("здрасти Геца");
                 break;
+            case 5:
+                System.out.println("здрасти");
+                break;
+            case 4:
+                System.out.println("как я карате");
+                break;
+            case 3:
+                System.out.println("просто си падам");
+                break;
+            case 2 :
+                System.out.println("AAAAA!");
+                break;
             case 1:System.out.println("Aуч");
             break;
+            default
+                System.out.println("Nope! няма да скачам");
+
 
 
   }
